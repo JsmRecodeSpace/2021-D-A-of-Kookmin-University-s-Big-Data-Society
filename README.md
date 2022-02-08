@@ -1,10 +1,10 @@
-# < 2021년 국민대학교 빅데이터 학회 D&A 부학회장 활동내역 >
+# < 2021년 국민대학교 빅데이터 학회 D&A 활동내역 >
 
 ## 학회 구성
 
 학회명: D&A<br>
 학회소속: 국민대학교 빅데이터경영통계학과 빅데이터 학회<br>
-학회운영진 인원:6명<br>
+학회운영진 인원: 6명 (2명 학회장&부학회장, 4명 운영진)<br>
 학회인원: 학기별 대략 80~90명<br>
 학회활동:<br>
  - 21년 1학기 세션 운영
@@ -26,16 +26,15 @@
 ## 본인 역할 및 활동
  - D&A 부학회장<br>
  - 1년간 모든 세션 커리큘럼 작성 및 운영진 역할 배분<br>
- - 1년간 총 5번의 수업 담당<br>
  - 1년간 4번의 실무진 초청강연회 진행
- - 세션 수업 운영
-   - 베이직세션 3차시 수업: 문자열, 함수, 모듈, 클래스 담당<br>
-   - 머신러닝세션 6차시 수업: 부스팅 담당<br>
-   - 머신러닝세션 8차시 수업: 앙상블 담당<br>
-   - 딥러닝세션 4차시 수업: 크롤링 담당<br>
-   - 딥러닝세션 5차시 수업: CNN기초 담당<br>
-   - 컨퍼런스세션 프로젝트 조장 담당: 위조번호판 출입방지를 위한 영상처리기반 주차관제시스템 프로젝트 1학기간 진행 및 발표<br>
- - 산학연계공모전 개최 및 시상식 
+ - 1년간 총 5번의 수업 담당<br>
+   - 베이직세션 3차시 수업: 문자열, 함수, 모듈, 클래스 담당(1부:https://www.youtube.com/watch?v=iuTShJWNzxA, 2부:https://www.youtube.com/watch?v=9mW-ipwqGGw)<br>
+   - 머신러닝세션 6차시 수업: 부스팅 담당(https://www.youtube.com/watch?v=i9vDu8n-3Z0)<br>
+   - 머신러닝세션 8차시 수업: 앙상블 담당(https://youtube.com/watch?v=RIIZaOoTJb4&feature=youtu.be)<br>
+   - 딥러닝세션 4차시 수업: 크롤링 담당(1부:https://www.youtube.com/watch?v=7y6i7y_ovGI, 2부:https://www.youtube.com/watch?v=kPUUqBIC6Is)<br>
+   - 딥러닝세션 5차시 수업: CNN기초 담당(1부:https://www.youtube.com/watch?v=rHdxbksLiLk, 2부:https://www.youtube.com/watch?v=oF2PGb5fX80)<br>
+ - 컨퍼런스세션 프로젝트 조장 담당: 위조번호판 출입방지를 위한 영상처리기반 주차관제시스템 프로젝트 1학기간 진행 및 발표(https://github.com/JsmRecodeSpace/2021_11-Forged-license-plate-enter-prevention-parking-control-system)<br>
+ - 기업 '플랫포머스(주)'와 연계하여 산학연계공모전 개최 및 시상식 운영
 
 
 
